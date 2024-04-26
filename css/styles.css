@@ -373,14 +373,12 @@ img {
   color: var(--headers-color);
 }
 
-.portfolio-list-item:hover,
-.portfolio-list-item:focus {
+.portfolio-list-item:hover {
   box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
     0px 1px 1px 0px rgba(46, 47, 66, 0.16),
     0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
-.portfolio-list-item:hover .overlay-text,
-.portfolio-list-item:focus .overlay-text {
+.portfolio-list-item:hover .overlay-text {
   transform: translatey(0%);
 }
 
