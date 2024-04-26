@@ -369,7 +369,7 @@ img {
   display: block;
 }
 
-.link-overlay:visited {
+.overlay-link:visited {
   color: var(--headers-color);
 }
 
